@@ -1,0 +1,19 @@
+
+import java.util.*;
+
+public class Sequence {
+
+	// Lista di canzoni
+	List<Song> songs = new ArrayList<Song>();
+
+	public Playable getLinearIterator() { 
+		// Logica
+		return ...
+	}
+
+	public Playable getShufflelIterator() { 
+		// Logica
+		return ...
+	}
+
+}
